@@ -1,5 +1,4 @@
 # Návrh domácí sítě
-<img src="domaci sit.PNG" >
 ## Zařízení: 
 #### Počítač, TV, Rack, TV anténa, domácí kino.
 ## Média:
