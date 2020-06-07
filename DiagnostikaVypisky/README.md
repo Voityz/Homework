@@ -1,2 +1,2 @@
-#Výpisky jsem napsal v Office 365 pro lepší čtení 
+Výpisky jsem napsal v Office 365 pro lepší čtení 
 
